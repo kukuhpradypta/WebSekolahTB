@@ -42,9 +42,9 @@
   <body>
     <!-- ======= Header ======= -->
     
-    <header id="header" class="fixed-top">
-      @yield('navbar')
-    </header>
+    {{-- <header id="header" class="fixed-top"> --}}
+      @include('template.navbar')
+    {{-- </header> --}}
 
     <!-- End Header -->
 
@@ -61,10 +61,11 @@
     <main id="main">
       <!-- ======= Counts Section ======= -->
       <!-- Carousel -->
+      
+      {{-- <div id="carouselExampleControls" class="carousel slide counts section-bg" data-bs-ride="carousel"> --}}
 
-      <div id="carouselExampleControls" class="carousel slide counts section-bg" data-bs-ride="carousel">
-@yield('carousel')
-      </div>
+        @include('template.carousel')
+      {{-- </div> --}}
       <!-- End Carousel -->
       <!-- End Counts Section -->
 
@@ -250,7 +251,7 @@
       </section>
 
       <!-- ======= Trainers Section ======= -->
-      <section id="counts" class="counts section-bg mt-4" style="background-color: #3b4850">
+      <section id="counts" class="counts section-bg " style="background-color: #3b4850">
         <div class="container text-white">
           <div class="row counters mt-4 mb-5">
             <div class="col-md-7" style="font-family: poppins">
@@ -278,9 +279,9 @@
         </div>
       </section>
       <!-- End Trainers Section -->
-      <footer  class="counts section-bg" style="background-color: #095b90;">
-@yield('footer')
-      </footer>
+      {{-- <footer  class="counts section-bg" style="background-color: #095b90;"> --}}
+@include('template.footer')
+      {{-- </footer> --}}
     </main>
     <!-- End #main -->
 

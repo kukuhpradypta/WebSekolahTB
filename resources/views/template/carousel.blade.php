@@ -1,5 +1,5 @@
-@extends('welcome')
-@section('carousel')
+
+    <div id="carouselExampleControls" class="carousel slide counts section-bg" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
             <div class="container">
@@ -65,4 +65,4 @@
             <span class="visually-hidden">Next</span>
           </button>
         </div>
-@endsection
+    </div>

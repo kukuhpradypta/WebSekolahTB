@@ -1,5 +1,5 @@
-@extends('welcome')
-@section('footer')
+
+    <footer  class="counts section-bg" style="background-color: #095b90;">
         <div class="container text-white" >
           <div class="row counters mt-4">
             <div class="col-md-2" style="font-family: poppins">
@@ -40,4 +40,5 @@
             </section>
           </div>
         </div>
-@endsection
+    </footer>
+
