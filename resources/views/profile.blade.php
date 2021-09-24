@@ -1,11 +1,11 @@
 @include('template.navbar')
 @include('template.background')
 @include('template.carousel')
-<div class="container">
+<div class="container pt-5">
 <nav class="nav nav-pills flex-column flex-sm-row mt-1">
-  <a class="flex-sm-fill text-sm-center nav-link active" aria-current="page" data-bs-toggle="tab" data-bs-target="#home">Sejarah</a>
-  <a class="flex-sm-fill text-sm-center nav-link" data-bs-toggle="tab" data-bs-target="#profile">Visi dan Misi</a>
-  <a class="flex-sm-fill text-sm-center nav-link" data-bs-toggle="tab" data-bs-target="#contact">Tujuan SMK Taruna Bhakti</a>
+  <a class="flex-sm-fill text-sm-center nav-link active " aria-current="page" data-bs-toggle="tab" data-bs-target="#home">Sejarah</a>
+  <a class="flex-sm-fill text-sm-center nav-link " data-bs-toggle="tab" data-bs-target="#profile">Visi dan Misi</a>
+  <a class="flex-sm-fill text-sm-center nav-link " data-bs-toggle="tab" data-bs-target="#contact">Tujuan SMK Taruna Bhakti</a>
 </nav>
 <div class="tab-content mb-5" id="myTabContent">
   <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab"><h3 class="mt-5">SEJARAH SMK TARUNA BHAKTI</h3>
