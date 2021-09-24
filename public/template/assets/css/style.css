@@ -18,12 +18,13 @@
     }
     .carosel {
         height: 270px;
-        margin-bottom: 5px;
+        margin-bottom: 0;
     }
-    /* .skipback {
-        margin-top: 20%;
-    } */
+    .skipback {
+        margin-bottom: 20%;
+    }
 }
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -242,7 +243,6 @@ h6 {
 }
 .navbar a:hover,
 .navbar li:hover > a {
-    color: #2b7fb8;
     text-decoration: underline 2px;
 }
 .navbar .dropdown ul {

@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+    
+    <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -40,28 +41,13 @@
   </head>
 
   <body>
-<header id="header">
-    <div class="container d-flex align-items-center">
-
-        <img src="{{asset('template/assets/img/logotb.png')}}" alt="" style="height: 70px; width: 70px" />
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index.html" class="logo me-auto"><img src="{{asset('template/assets/img/logo.png')}}" alt="" class="img-fluid"></a>
-
-        <nav id="navbar active" class="navbar order-last order-lg-0" style="margin-left: auto">
-          <ul>
-            <li><a class="active" href="/">Home</a></li>
-            <li><a href="/profile">Profile</a></li>
-            <li><a href="courses.html">Kurikulum</a></li>
-            <li><a href="trainers.html">Hubungan Industri</a></li>
-            <li><a href="events.html">Sarana Pra Sarana</a></li>
-            <li><a href="pricing.html">Kesiswaan</a></li>
-            <li><a href="contact.html">Kontak Kami</a></li>
-          </ul>
-          <i class="bi bi-list mobile-nav-toggle"></i>
-        </nav>
-        <!-- .navbar -->
-      </div>  
-</header>
+    <section id="hero" class="d-flex justify-content-center align-items-center">
+      <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
+        <h1>Learning Today,<br />Leading Tomorrow</h1>
+        <h2>We are team of talented designers making websites with Bootstrap</h2>
+        <a href="https://portal.smktarunabhakti.net/login/index.php" target="_blank" class="btn-get-started">Get Started</a>
+      </div>
+    </section>
 
     <script src="{{asset('template/assets/vendor/aos/aos.js')}}"></script>
     <script src="{{asset('template/assets/vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
