@@ -25,6 +25,9 @@ Route::get('/kurikulum', function () {
 Route::get('/kontakkami', function () {
     return view('kontakkami');
 });
+Route::get('/hubin', function () {
+    return view('hubin');
+});
 
 
 
