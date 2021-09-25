@@ -52,9 +52,9 @@
             <li><a class="{{request()->is('/*') ? 'active':''}}" href="/">Home</a></li>
             <li><a class="{{request()->is('profile*') ? 'active':''}}" href="/profile">Profile</a></li>
             <li><a class="{{request()->is('kurikulum*') ? 'active':''}}" href="/kurikulum">Kurikulum</a></li>
-            <li><a class="{{request()->is('hubin*') ? 'active':''}}" href="trainers.html">Hubungan Industri</a></li>
-            <li><a class="{{request()->is('sarpras*') ? 'active':''}}" href="events.html">Sarana Pra Sarana</a></li>
-            <li><a class="{{request()->is('kesiswaan*') ? 'active':''}}" href="pricing.html">Kesiswaan</a></li>
+            <li><a class="{{request()->is('hubin*') ? 'active':''}}" href="/hubin">Hubungan Industri</a></li>
+            <li><a class="{{request()->is('sarpras*') ? 'active':''}}" href="/sarpras">Sarana Pra Sarana</a></li>
+            <li><a class="{{request()->is('kesiswaan*') ? 'active':''}}" href="/kesiswaan">Kesiswaan</a></li>
             <li><a class="{{request()->is('kontakkami*') ? 'active':''}}" href="/kontakkami">Kontak Kami</a></li>
           </ul>
           <i class="bi bi-list mobile-nav-toggle"></i>

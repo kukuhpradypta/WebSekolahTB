@@ -23,6 +23,13 @@
     .skipback {
         margin-bottom: 20%;
     }
+    .kekanan {
+        width: 100%;
+        overflow-x: scroll;
+    }
+    .tetap {
+        overflow-x: hidden;
+    }
 }
 
 /*--------------------------------------------------------------
