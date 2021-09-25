@@ -51,7 +51,7 @@
           <ul>
             <li><a class="active" href="/">Home</a></li>
             <li><a href="/profile">Profile</a></li>
-            <li><a href="courses.html">Kurikulum</a></li>
+            <li><a href="/kurikulum">Kurikulum</a></li>
             <li><a href="trainers.html">Hubungan Industri</a></li>
             <li><a href="events.html">Sarana Pra Sarana</a></li>
             <li><a href="pricing.html">Kesiswaan</a></li>

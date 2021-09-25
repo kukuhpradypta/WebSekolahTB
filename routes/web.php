@@ -19,8 +19,18 @@ Route::get('/', function () {
 Route::get('/profile', function () {
     return view('profile');
 });
+Route::get('/kurikulum', function () {
+    return view('kurikulum');
+});
+
+
+
+
 Route::get('/navbar', function () {
     return view('template.navbar');
+});
+Route::get('/struktur', function () {
+    return view('struktur');
 });
 Route::get('/footer', function () {
     return view('template.footer');
