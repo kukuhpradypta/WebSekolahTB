@@ -22,6 +22,9 @@ Route::get('/profile', function () {
 Route::get('/kurikulum', function () {
     return view('kurikulum');
 });
+Route::get('/kontakkami', function () {
+    return view('kontakkami');
+});
 
 
 
