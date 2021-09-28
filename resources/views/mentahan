@@ -1,0 +1,11 @@
+<table class="table table-bordered" style="width: 100%;" border="1">
+          <tr>
+            <td style="width: 60%;">asdasd</td>
+            <td style="width: 40%;">asdasd</td>
+          </tr>
+        </table>
+
+
+            <a class="flex-sm-fill text-sm-center nav-link fw-bold" data-bs-toggle="tab" data-bs-target="#mushola">Mushola Raudhotul Ilmi</a>
+    <a class="flex-sm-fill text-sm-center nav-link fw-bold" data-bs-toggle="tab" data-bs-target="#sarana">Sarana Pembelajaran</a>
+    <a class="flex-sm-fill text-sm-center nav-link fw-bold" data-bs-toggle="tab" data-bs-target="#pendukung">Fasilitas Pendukung</a>

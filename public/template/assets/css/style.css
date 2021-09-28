@@ -4,6 +4,15 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+.hover-side{
+    color: #2689c9;
+    font-size: smaller;
+    border-radius: 0px;
+}
+.hover-side:hover{
+    background: #ececec;
+    color: #1c6494;
+}
 @media (max-width: 768px) {
     .isi {
         font-size: 12px;
@@ -26,6 +35,7 @@
     .kekanan {
         width: 100%;
         overflow-x: scroll;
+        text-align: center;
     }
     .tetap {
         overflow-x: hidden;

@@ -1,7 +1,7 @@
 @include('template.navbar')
 @include('template.background')
 @include('template.carousel')
-<div class="container pt-5" style="height: 600px">
+<div class="container pt-5" >
 <nav class="nav nav-tabs flex-column flex-sm-row mt-1">
   <a class="flex-sm-fill text-sm-center nav-link active " aria-current="page" data-bs-toggle="tab" data-bs-target="#home">Sejarah</a>
   <a class="flex-sm-fill text-sm-center nav-link " data-bs-toggle="tab" data-bs-target="#profile">Visi dan Misi</a>
@@ -18,7 +18,7 @@
 
     Sebagai salah satu sekolah Teknologi Informasi dan Komunikasi  bermutu di Depok, prestasi yang telah dicapai oleh SMK Taruna Bhakti Depok  ini memang sesuai dengn visi dan misi yang diembannya</p></div>
   </div>
-  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+  <div class="tab-pane fade show" id="profile" role="tabpanel" aria-labelledby="profile-tab">
     <h3 class="mt-5 fw-bold">Visi</h3>
     <ol>
       <li>Menghasilkan lulusan yang kompeten dalam IPTEK DAN IMTAQ,</li>
@@ -33,7 +33,7 @@
       <li>Menerapkan layanan prima dalam pengelolaan sekolah melalui Sistem Manajeman Mutu</li>
     </ol>
   </div>
-  <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+  <div class="tab-pane fade show" id="contact" role="tabpanel" aria-labelledby="contact-tab">
     <h3 class="mt-5"><b>Tujuan Sekolah</b></h3>
     <ol>
       <li>Menghasilkan lulusan yang kompeten</li>

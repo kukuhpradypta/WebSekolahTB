@@ -12,9 +12,9 @@
 </head>
 <div class="container pt-5">
 <nav class="nav nav-tabs flex-column flex-sm-row mt-1">
-  <a class="flex-sm-fill text-sm-center nav-link active " aria-current="page" data-bs-toggle="tab" data-bs-target="#home">Guru SMK Taruna Bhakti</a>
-  <a class="flex-sm-fill text-sm-center nav-link " data-bs-toggle="tab" data-bs-target="#kurikulum">Kurikulum SMK Taruna Bhakti</a>
-  <a class="flex-sm-fill text-sm-center nav-link " data-bs-toggle="tab" data-bs-target="#contact">Kompetensi Keahlian</a>
+  <a class="flex-sm-fill text-sm-center nav-link active fw-bold" aria-current="page" data-bs-toggle="tab" data-bs-target="#home">Guru SMK Taruna Bhakti</a>
+  <a class="flex-sm-fill text-sm-center nav-link fw-bold" data-bs-toggle="tab" data-bs-target="#kurikulum">Kurikulum SMK Taruna Bhakti</a>
+  <a class="flex-sm-fill text-sm-center nav-link fw-bold" data-bs-toggle="tab" data-bs-target="#contact">Kompetensi Keahlian</a>
 
   {{-- <a class="flex-sm-fill text-sm-center nav-link " data-bs-toggle="tab" data-bs-target="#sistem">Sistem Pembelajaran</a>
   <a class="flex-sm-fill text-sm-center nav-link " data-bs-toggle="tab" data-bs-target="#sertifikasi">Sertifikasi Internasional</a> --}}
