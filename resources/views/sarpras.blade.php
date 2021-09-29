@@ -19,8 +19,8 @@
 
   <!-- Sarpras -->
   <div class="tab-pane fade show active" id="sarpras" role="tabpanel" aria-labelledby="home-tab">
-    <div class="row mt-5">
-      <div class="col-md-9">
+    <div class="row">
+      <div class="">
         <h3><b>Sarana dan Prasarana Sekolah</b></h3>
         <hr>
         <br>
@@ -106,8 +106,8 @@
 
   <!-- Ruang umum -->
   <div class="tab-pane fade" id="ruangumum" role="tabpanel" aria-labelledby="profile-tab">
-    <div class="row mt-5">
-      <div class="col-md-9">
+    <div class="row">
+      <div class="">
         <h3><b>Ruang Pembelajaran Umum</b></h3>
         <hr>
         <br>
@@ -205,8 +205,8 @@
 
   <!-- Ruang Khusus -->
   <div class="tab-pane fade" id="ruangkhusus" role="tabpanel" aria-labelledby="contact-tab">
-    <div class="row mt-5">
-      <div class="col-md-9">
+    <div class="row">
+      <div class="">
         <h3><b>Ruang Pembelajaran Umum</b></h3>
         <hr>
         <br>
@@ -385,8 +385,8 @@
 
   <!-- Parkiran -->
   <div class="tab-pane fade" id="parkir" role="tabpanel" aria-labelledby="contact-tab">
-    <div class="row mt-5">
-      <div class="col-md-9">
+    <div class="row">
+      <div class="">
         <h3><b>Fasilitas Parkir Kendaraan Siswa</b></h3>
         <hr>
         <br>
@@ -403,7 +403,7 @@
   <!-- Mushola -->
   <div class="tab-pane fade" id="mushola" role="tabpanel" aria-labelledby="contact-tab">
     <div class="row">
-      <div class="col-md-9">
+      <div class="">
         <h3><b>Mushola Raudhotul Ilmi</b></h3>
         <hr>
         <br>
@@ -420,7 +420,7 @@
   <!-- Mushola -->
   <div class="tab-pane fade" id="pendukung" role="tabpanel" aria-labelledby="contact-tab">
     <div class="row">
-      <div class="col-md-9">
+      <div class="">
         <h3><b>Fasilitas Pendukung</b></h3>
         <hr>
         <br>
