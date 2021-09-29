@@ -19,8 +19,8 @@
 
   <!-- Sarpras -->
   <div class="tab-pane fade show active" id="sarpras" role="tabpanel" aria-labelledby="home-tab">
-    <div class="row mt-5">
-      <div class="col-md-9">
+    <div class="row">
+      <div class="">
         <h3><b>Sarana dan Prasarana Sekolah</b></h3>
         <hr>
         <br>
@@ -101,16 +101,16 @@
         </div>
         <img src="{{ asset('photos/lbhs1.jpeg')}}" class="mt-4 mb-5" alt="" width="99.5%">
       </div>
-      <div class="col-md-3">
-        @include('template.bar')
+      <div class="">
+        
       </div>
     </div>
   </div>
 
   <!-- Ruang umum -->
   <div class="tab-pane fade" id="ruangumum" role="tabpanel" aria-labelledby="profile-tab">
-    <div class="row mt-5">
-      <div class="col-md-9">
+    <div class="row">
+      <div class="">
         <h3><b>Ruang Pembelajaran Umum</b></h3>
         <hr>
         <br>
@@ -203,16 +203,16 @@
         </table>
 
       </div>
-      <div class="col-md-3">
-        @include('template.bar')
+      <div class="">
+        
       </div>
     </div>
   </div>
 
   <!-- Ruang Khusus -->
   <div class="tab-pane fade" id="ruangkhusus" role="tabpanel" aria-labelledby="contact-tab">
-    <div class="row mt-5">
-      <div class="col-md-9">
+    <div class="row">
+      <div class="">
         <h3><b>Ruang Pembelajaran Umum</b></h3>
         <hr>
         <br>
@@ -386,16 +386,16 @@
         </table>
 
       </div>
-      <div class="col-md-3">
-        @include('template.bar')
+      <div class="">
+        
       </div>
     </div>
   </div>
 
   <!-- Parkiran -->
   <div class="tab-pane fade" id="parkir" role="tabpanel" aria-labelledby="contact-tab">
-    <div class="row mt-5">
-      <div class="col-md-9">
+    <div class="row">
+      <div class="">
         <h3><b>Fasilitas Parkir Kendaraan Siswa</b></h3>
         <hr>
         <br>
@@ -406,8 +406,8 @@
         </div>
         <p>Fasilitas Parkir Kendaraan Siswa[ngg_images source=”galleries” display_type=”photocrati-nextgen_basic_slideshow” gallery_width=”600″ gallery_height=”400″ cycle_effect=”fade” cycle_interval=”10″ show_thumbnail_link=”1″ thumbnail_link_text=”[Show thumbnails]” order_by=”sortorder” order_direction=”ASC” returns=”included” maximum_entity_count=”500″]</p>
       </div>
-      <div class="col-md-3">
-        @include('template.bar')
+      <div class="">
+        
       </div>
     </div>
   </div>
@@ -415,7 +415,7 @@
   <!-- Mushola -->
   <div class="tab-pane fade" id="mushola" role="tabpanel" aria-labelledby="contact-tab">
     <div class="row">
-      <div class="col-md-9">
+      <div class="">
         <h3><b>Mushola Raudhotul Ilmi</b></h3>
         <hr>
         <br>
@@ -426,8 +426,8 @@
         <img src="{{ asset('photos/')}}" alt="Foto 2" width="70%" height="49%" class="mt-3 mb-5">
         <p class="mt-3">Fasilitas pendukung ini difungsikan selain sebagai Ruang belajar mata pelajaran Pendidikan Agama dan Budi Pekerti, difungsikan juga sebagai tempat ibadah (Musholla).Ruangan ini dapat menampung kurang lebih 120 siswa.</p>
       </div>
-      <div class="col-md-3">
-        @include('template.bar')
+      <div class="">
+        
       </div>
     </div>
   </div>
@@ -435,7 +435,7 @@
   <!-- Mushola -->
   <div class="tab-pane fade" id="pendukung" role="tabpanel" aria-labelledby="contact-tab">
     <div class="row">
-      <div class="col-md-9">
+      <div class="">
         <h3><b>Fasilitas Pendukung</b></h3>
         <hr>
         <br>
@@ -471,8 +471,8 @@
           </tr>
         </table>
       </div>
-      <div class="col-md-3">
-        @include('template.bar')
+      <div class="">
+        
       </div>
     </div>
   </div>
