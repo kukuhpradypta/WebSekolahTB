@@ -1,4 +1,4 @@
-<div class="mt-5">
+<div class="">
 
 <p style="text-align: center;"><span style="font-size: 18pt;">STRUKTUR KURIKULUM</span></p>
 <p style="text-align: center;"><span style="font-size: 18pt;">SMK TARUNA BHAKTI </span></p>

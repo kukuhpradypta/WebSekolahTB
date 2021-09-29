@@ -13,11 +13,14 @@
   <a class="flex-sm-fill text-sm-center nav-link " data-bs-toggle="tab" data-bs-target="#bc"><b>Broadcasting</b></a>
   <a class="flex-sm-fill text-sm-center nav-link " data-bs-toggle="tab" data-bs-target="#tei"><b>Teknik Elektronika Industri</b></a>
 </nav>
-<div class="tab-content mb-5" id="myTabContent">
+
+<div class="row mt-5">
+    <div class="col-md-9">
+    <div class="tab-content mb-5" id="myTabContent">
   <div class="tab-pane kekanan fade show active " id="tkj" role="tabpanel" aria-labelledby="home-tab">
 
     <!-- Kerja -->
-    <h5 class="mt-5"><b>DATA TAMATAN Teknik Komputer Jaringan YANG BEKERJA</b></h5>
+    <h5 class=""><b>DATA TAMATAN Teknik Komputer Jaringan YANG BEKERJA</b></h5>
     <div class="kekanan">
         
         <table class="table mt-4">
@@ -201,7 +204,7 @@
   <div class="tab-pane kekanan fade" id="mm" role="tabpanel" aria-labelledby="profile-tab">
     
     <!-- Kerja -->
-    <h5 class="mt-5"><b>DATA TAMATAN Multimedia YANG BEKERJA</b></h5>
+    <h5 class=""><b>DATA TAMATAN Multimedia YANG BEKERJA</b></h5>
 
     <div class="kekanan">
         <table class="table mt-4">
@@ -384,7 +387,7 @@
   <div class="tab-pane kekanan fade" id="rpl" role="tabpanel" aria-labelledby="contact-tab">
     
     <!-- Kerja -->
-<h5 class="mt-5"><b>DATA TAMATAN Rekayasa Perangkat Lunak YANG BEKERJA</b></h5>
+<h5 class=""><b>DATA TAMATAN Rekayasa Perangkat Lunak YANG BEKERJA</b></h5>
 
 <div class="kekanan">
     <table class="table mt-4">
@@ -567,7 +570,7 @@
   <div class="tab-pane kekanan fade" id="bc" role="tabpanel" aria-labelledby="contact-tab">
     
     <!-- Kerja -->
-<h5 class="mt-5"><b>DATA TAMATAN Broadcasting YANG BEKERJA</b></h5>
+<h5 class=""><b>DATA TAMATAN Broadcasting YANG BEKERJA</b></h5>
 
 <div class="kekanan">
     <table class="table mt-4">
@@ -750,7 +753,7 @@
   <div class="tab-pane kekanan fade" id="tei" role="tabpanel" aria-labelledby="contact-tab">
     
     <!-- Kerja -->
-<h5 class="mt-5"><b>DATA TAMATAN Teknik Elekrtonika Industri YANG BEKERJA</b></h5>
+<h5 class=""><b>DATA TAMATAN Teknik Elekrtonika Industri YANG BEKERJA</b></h5>
 
 <div class="kekanan">
     <table class="table mt-4">
@@ -930,6 +933,11 @@
  <br>
 
   </div>
+</div>
+    </div>
+    <div class="col-md-3">
+        @include('template.bar')
+    </div>
 </div>
 </div>
 

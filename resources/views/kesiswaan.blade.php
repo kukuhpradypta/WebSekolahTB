@@ -9,10 +9,12 @@
 
   </div>
 </nav>
-<div class="tab-content" id="nav-tabContent">
+<div class="row mt-5">
+  <div class="col-md-9">
+  <div class="tab-content" id="nav-tabContent">
   <div class="tab-pane fade show active" id="osis" role="tabpanel" aria-labelledby="nav-home-tab">
     <div class="container" data-aos="fade-up">
-        <h5 class="mt-5"><b>Kegiatan Osis</b></h5>
+        <h5><b>Kegiatan Osis</b></h5>
         <hr>
         <br>
         <p>
@@ -20,7 +22,12 @@
         </p>
 
         </div>
+    </div>
   </div>
+</div>
+<div class="col-md-3">
+  @include('template.bar')
+</div>
 </div>
 </div>
 <br>
