@@ -147,7 +147,18 @@ ul {
         overflow-x: hidden;
     }
 }
-
+@media (max-width: 768px) {
+    .judulcarousel {
+        padding-right: 10%;
+    }
+    .isicarousel {
+        margin-left: 10%;
+        padding-right: 10%;
+    }
+    .tombolcarousel {
+        margin-top: -5%;
+    }
+}
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/

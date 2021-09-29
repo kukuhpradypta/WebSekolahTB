@@ -31,7 +31,7 @@
           <div class="row card-group " data-aos="zoom-in" data-aos-delay="100">
 
               <div class="col-lg-4 col-md-6 d-flex align-items-stretch mb-4 guru">
-                <a href="">
+                <a href="/fotoguru">
                   <div class="course-item">
                     <img src="{{asset('template/assets/img/abouttb.jpg')}}" class="img-fluid" alt="..."  style="height: 70%;width:100%;"/>
                     <div class="course-content">
@@ -43,7 +43,7 @@
               </div>
 
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0 mb-4 guru">
-              <a href="">
+              <a href="/fotoguru">
                 <div class="course-item">
                   <img src="{{asset('template/assets/img/abouttb.jpg')}}" class="img-fluid" alt="..."  style="height: 70%;width:100%;"/>
                   <div class="course-content">
@@ -55,7 +55,7 @@
             </div>
 
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0 mb-4 guru">
-              <a href="">
+              <a href="/fotoguru">
                 <div class="course-item">
                   <img src="{{asset('template/assets/img/abouttb.jpg')}}" class="img-fluid" alt="..."  style="height: 70%;width:100%;"/>
                   <div class="course-content">
@@ -67,7 +67,7 @@
             </div>
             
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0 mb-4 guru">
-              <a href="">
+              <a href="/fotoguru">
                 <div class="course-item">
                   <img src="{{asset('template/assets/img/abouttb.jpg')}}" class="img-fluid" alt="..."  style="height: 70%;width:100%;"/>
                   <div class="course-content">
@@ -79,7 +79,7 @@
             </div>
 
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0 mb-4 guru">
-              <a href="">
+              <a href="/fotoguru">
                 <div class="course-item">
                   <img src="{{asset('template/assets/img/abouttb.jpg')}}" class="img-fluid" alt="..."  style="height: 70%;width:100%;"/>
                   <div class="course-content">
