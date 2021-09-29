@@ -17,7 +17,8 @@
 <div class="tab-content mb-5" id="myTabContent">
 
 
-     <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">      <section id="popular-courses" class="courses">
+     <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+        <section id="popular-courses" class="courses">
         <div class="container" data-aos="fade-up">
           <div class="row" data-aos="zoom-in" data-aos-delay="100">
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch mb-4">
@@ -28,7 +29,7 @@
                   <h3><a href="course-details.html">Tim Manajemen Sekolah</a></h3>
                   <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                                     <div class="d-flex justify-content-between align-items-center mb-3">
-                    <a class="btn btn-primary" href="">Detail</a>
+                    <a class="btn btn-primary" href="/fotoguru">Detail</a>
                   </div>
                 </div>
               </div>
@@ -42,7 +43,7 @@
                   <h3><a href="course-details.html">Staff Tata Usaha</a></h3>
                   <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                                     <div class="d-flex justify-content-between align-items-center mb-3">
-                    <a class="btn btn-primary" href="">Detail</a>
+                    <a class="btn btn-primary" href="/fotoguru">Detail</a>
                   </div>
                 </div>
               </div>
@@ -56,7 +57,7 @@
                    <h3><a href="course-details.html">Guru Bimbingan Konseling</a></h3>
                   <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                                     <div class="d-flex justify-content-between align-items-center mb-3">
-                    <a class="btn btn-primary" href="">Detail</a>
+                    <a class="btn btn-primary" href="/fotoguru">Detail</a>
                   </div>
                 </div>
               </div>
@@ -69,7 +70,7 @@
                    <h3><a href="course-details.html">Guru Kejuruan</a></h3>
                   <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                                     <div class="d-flex justify-content-between align-items-center mb-3">
-                    <a class="btn btn-primary" href="">Detail</a>
+                    <a class="btn btn-primary" href="/fotoguru">Detail</a>
                   </div>
                 </div>
               </div>
@@ -82,7 +83,7 @@
                    <h3><a href="course-details.html">Guru Normatif Dan Adaptif</a></h3>
                   <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                                     <div class="d-flex justify-content-between align-items-center mb-3">
-                    <a class="btn btn-primary" href="">Detail</a>
+                    <a class="btn btn-primary" href="/fotoguru">Detail</a>
                   </div>
                 </div>
               </div>
