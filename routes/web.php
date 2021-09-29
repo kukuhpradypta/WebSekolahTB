@@ -34,6 +34,12 @@ Route::get('/artikel', function () {
 Route::get('/fotoguru', function () {
     return view('fotoguru');
 });
+Route::get('/sarpras', function () {
+    return view('sarpras');
+});
+Route::get('/kesiswaan', function () {
+    return view('kesiswaan');
+});
 
 
 

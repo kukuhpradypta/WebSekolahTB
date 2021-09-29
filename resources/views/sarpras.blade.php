@@ -101,9 +101,6 @@
         </div>
         <img src="{{ asset('photos/lbhs1.jpeg')}}" class="mt-4 mb-5" alt="" width="99.5%">
       </div>
-      <div class="col-md-3">
-        @include('template.bar')
-      </div>
     </div>
   </div>
 
@@ -202,9 +199,6 @@
           </tr>
         </table>
 
-      </div>
-      <div class="col-md-3">
-        @include('template.bar')
       </div>
     </div>
   </div>
@@ -386,9 +380,6 @@
         </table>
 
       </div>
-      <div class="col-md-3">
-        @include('template.bar')
-      </div>
     </div>
   </div>
 
@@ -406,9 +397,6 @@
         </div>
         <p>Fasilitas Parkir Kendaraan Siswa[ngg_images source=”galleries” display_type=”photocrati-nextgen_basic_slideshow” gallery_width=”600″ gallery_height=”400″ cycle_effect=”fade” cycle_interval=”10″ show_thumbnail_link=”1″ thumbnail_link_text=”[Show thumbnails]” order_by=”sortorder” order_direction=”ASC” returns=”included” maximum_entity_count=”500″]</p>
       </div>
-      <div class="col-md-3">
-        @include('template.bar')
-      </div>
     </div>
   </div>
 
@@ -425,9 +413,6 @@
         <br>
         <img src="{{ asset('photos/')}}" alt="Foto 2" width="70%" height="49%" class="mt-3 mb-5">
         <p class="mt-3">Fasilitas pendukung ini difungsikan selain sebagai Ruang belajar mata pelajaran Pendidikan Agama dan Budi Pekerti, difungsikan juga sebagai tempat ibadah (Musholla).Ruangan ini dapat menampung kurang lebih 120 siswa.</p>
-      </div>
-      <div class="col-md-3">
-        @include('template.bar')
       </div>
     </div>
   </div>
@@ -470,9 +455,6 @@
             </td>
           </tr>
         </table>
-      </div>
-      <div class="col-md-3">
-        @include('template.bar')
       </div>
     </div>
   </div>

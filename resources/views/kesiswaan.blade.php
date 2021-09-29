@@ -25,9 +25,6 @@
     </div>
   </div>
 </div>
-<div class="col-md-3">
-  @include('template.bar')
-</div>
 </div>
 </div>
 <br>
